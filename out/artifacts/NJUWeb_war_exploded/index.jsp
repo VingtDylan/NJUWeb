@@ -55,8 +55,10 @@
       </div>
     </div>
 
-    <p><a href="/jsp/QRCode.jsp" style="font-size: 40px; position: fixed;left: 600px;">跳转</a></p>
-    <p><a href="/html/2048.html" style="font-size: 40px; position: fixed;left: 800px;">2048</a></p>
+    <p><a href="/jsp/QRCode.jsp" style="font-size: 40px; position: fixed;left: 400px;top: 300px; ">猜数字</a></p>
+    <p><a href="/jsp/QRCode.jsp" style="font-size: 40px; position: fixed;left: 600px;top: 200px; ">跳转</a></p>
+    <%--<p><a href="/html/2048.html" style="font-size: 40px; position: fixed;left: 800px;top: 300px; ">2048</a></p>--%>
+    <p><a href="/jsp/2048.jsp" style="font-size: 40px; position: fixed;left: 1000px;top: 400px; ">2048</a></p>
 
   </body>
 </html>
