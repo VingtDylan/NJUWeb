@@ -110,7 +110,7 @@
     <session id="-1677784088">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.46" value="1" />
@@ -151,7 +151,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1227" />
+          <entry key="css" value="1237" />
           <entry key="html" value="59" />
           <entry key="java" value="2003" />
           <entry key="js" value="109" />
@@ -162,7 +162,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1227" />
+          <entry key="CSS" value="1237" />
           <entry key="HTML" value="59" />
           <entry key="JAVA" value="2003" />
           <entry key="JSP" value="1847" />
@@ -202,8 +202,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/css/fruit.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+            <state relative-caret-position="65">
+              <caret line="119" column="13" lean-forward="true" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -405,7 +405,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553511656887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553511656956" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Servlet" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -531,7 +531,7 @@
       <workItem from="1553106786295" duration="33646000" />
       <workItem from="1553234803927" duration="14429000" />
       <workItem from="1553317566142" duration="1278000" />
-      <workItem from="1553501236317" duration="7627000" />
+      <workItem from="1553501236317" duration="7773000" />
     </task>
     <task id="LOCAL-00001" summary="2048">
       <created>1553244325810</created>
@@ -544,7 +544,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67246000" />
+    <option name="totallyTimeSpent" value="67392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="386" y="30" width="1430" height="965" extended-state="0" />
@@ -556,9 +556,9 @@
       <window_info id="设计器" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.16569343" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.16569343" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3253012" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3253012" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32934132" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" weight="0.32934132" />
@@ -884,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/css/fruit.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+        <state relative-caret-position="65">
+          <caret line="119" column="13" lean-forward="true" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
         </state>
       </provider>
     </entry>
