@@ -57,8 +57,8 @@ public class Login extends HttpServlet {
             if((req.getParameter("check")!=null)&&("None".equals(req.getParameter("check")))){
                 Cookie nameCookie = new Cookie("username",username);
                 Cookie pswdCookie = new Cookie("password",password);
-                nameCookie.setMaxAge(1000);
-                pswdCookie.setMaxAge(1000);
+                nameCookie.setMaxAge(60*60*24*7);
+                pswdCookie.setMaxAge(60*60*24*7);
                 resp.addCookie(nameCookie);
                 resp.addCookie(pswdCookie);
 //                PrintWriter out=resp.getWriter();

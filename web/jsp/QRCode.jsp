@@ -4,15 +4,14 @@
   Time: 17:22
   Keep it simple and stupid.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
+<%@ page errorPage="error.jsp" %>
+<!doctype html>
 <html>
-<head>gbh
+<head>
     <title>二维码制作网页</title>
-
 </head>
 <body>
-    <h1>emmm</h1>
-
 
 </body>
 </html>

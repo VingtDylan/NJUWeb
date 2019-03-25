@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(dimgray, black);
+}
+
+.error {
+    display: flex;
+    width: 33em;
+    justify-content: space-between;
+}
+
+.error > * {
+    width: 10em;
+    height: 10em;
+    position: relative;
+}
+
+.error span {
+    position: absolute;
+    box-sizing: border-box;
+    filter: opacity(0.8);
+    transition: 0.3s;
+}
+
+.four span:nth-child(1) {
+    width: 20%;
+    height: 80%;
+    left: 10%;
+    background-color: yellowgreen;
+}
+
+.four span:nth-child(2) {
+    width: 100%;
+    height: 20%;
+    top: 50%;
+    background-color: turquoise;
+}
+
+.four span:nth-child(3) {
+    width: 20%;
+    height: 100%;
+    right: 10%;
+    background-color: pink;
+}
+
+.zero span:nth-child(1) {
+    width: 20%;
+    height: 100%;
+    left: 10%;
+    background-color: skyblue;
+}
+
+.zero span:nth-child(2) {
+    width: 100%;
+    height: 20%;
+    top: 10%;
+    background-color: plum;
+}
+
+.zero span:nth-child(3) {
+    width: 20%;
+    height: 100%;
+    right: 10%;
+    background-color: lightcoral;
+}
+
+.zero span:nth-child(4) {
+    width: 100%;
+    height: 20%;
+    bottom: 10%;
+    background-color: peachpuff;
+}
+
+.error:hover span {
+    background-color: whitesmoke;
+}
+
+.error:hover .four span:nth-child(1) {
+    left: 0;
+    top: 20%;
+}
+
+.error:hover .four span:nth-child(2) {
+    top: 0;
+}
+
+.error:hover .four span:nth-child(3) {
+    right: 0;
+}
+
+.error:hover .zero span:nth-child(1) {
+    left: 0;
+}
+
+.error:hover .zero span:nth-child(2) {
+    top: 0;
+}
+
+.error:hover .zero span:nth-child(3) {
+    right: 0;
+}
+
+.error:hover .zero span:nth-child(4) {
+    bottom: 0;
+}
+
+.neon {
+    position: relative;
+    overflow: hidden;
+    bottom: -50px;
+    user-select: none;
+}
+
+.text {
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 0;
+    filter: brightness(2);
+    background-color: black;
+}
+
+.text::before {
+    content: attr(data-text);
+    position: absolute;
+    filter: blur(3px);
+    mix-blend-mode: difference;
+}
+
+.gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, red, gold, lightgreen, gold, red);
+    mix-blend-mode: multiply;
+}
+
+.spotlight {
+    position: absolute;
+    top: -200%;
+    left: -100%;
+    right: -100%;
+    bottom: -200%;
+    background: radial-gradient(circle, white, black 25%)
+    center / 5% 5%;
+    transform: rotate(45deg);
+    mix-blend-mode: color-dodge;
+    animation: light 10s linear infinite;
+}
+
+@keyframes light {
+    to {
+        transform: translate(25%, 25%);
+    }
+}
+
+a {
+    position: fixed;
+    width: 50px;
+    height: 20px;
+    right: 20px;
+    top: 20px;
+    text-align: center;
+    color: cadetblue;
+    font-weight: bold;
+    background-color: darkslateblue;
+}

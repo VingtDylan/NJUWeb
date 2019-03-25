@@ -5,6 +5,7 @@
   Keep it simple and stupid.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page errorPage="jsp/error.jsp" %>
 <html>
   <head>
     <meta charset="UTF-8">
@@ -56,9 +57,9 @@
     </div>
 
     <p><a href="/jsp/QRCode.jsp" style="font-size: 40px; position: fixed;left: 400px;top: 300px; ">猜数字</a></p>
-    <p><a href="/jsp/QRCode.jsp" style="font-size: 40px; position: fixed;left: 600px;top: 200px; ">跳转</a></p>
+    <p><a href="/jsp/fruit.jsp" style="font-size: 40px; position: fixed;left: 600px;top: 200px; ">水果忍者</a></p>
     <%--<p><a href="/html/2048.html" style="font-size: 40px; position: fixed;left: 800px;top: 300px; ">2048</a></p>--%>
     <p><a href="/jsp/2048.jsp" style="font-size: 40px; position: fixed;left: 1000px;top: 400px; ">2048</a></p>
-
+    <p><a href="/jsp/flappy-bird.jsp" style="font-size: 40px; position: fixed;left: 800px;top: 200px; ">flappy-bird</a></p>
   </body>
 </html>
