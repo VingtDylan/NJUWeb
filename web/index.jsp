@@ -61,5 +61,7 @@
     <%--<p><a href="/html/2048.html" style="font-size: 40px; position: fixed;left: 800px;top: 300px; ">2048</a></p>--%>
     <p><a href="/jsp/2048.jsp" style="font-size: 40px; position: fixed;left: 1000px;top: 400px; ">2048</a></p>
     <p><a href="/jsp/flappy-bird.jsp" style="font-size: 40px; position: fixed;left: 800px;top: 200px; ">flappy-bird</a></p>
+    <p><a href="/html/chess.html" style="font-size: 40px; position: fixed;left: 1100px;top: 200px; ">象棋</a></p>
+    <p><a href="/jsp/" style="font-size: 40px; position: fixed;left: 900px;top: 200px; ">象棋</a></p>
   </body>
 </html>
