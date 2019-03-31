@@ -47,6 +47,16 @@
         <url-pattern>/jsp/2048.jsp</url-pattern>
     </filter-mapping>
 
+    <filter-mapping>
+        <filter-name>AutoLoginFilter</filter-name>
+        <url-pattern>/jsp/flappy-bird.jsp</url-pattern>
+    </filter-mapping>
+
+    <filter-mapping>
+        <filter-name>AutoLoginFilter</filter-name>
+        <url-pattern>/jsp/fruit.jsp</url-pattern>
+    </filter-mapping>
+
     <error-page>
         <error-code>404</error-code>
         <location>/jsp/error.jsp</location>

@@ -7,83 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59579f2c-8b58-4fdd-85df-e6f445bc90a2" name="默认" comment="flappy">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/flappy-bird.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/fruit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/developing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/dojo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/flash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fork.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/apple-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/apple-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/banana-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/banana-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/banana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/basaha-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/basaha-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/basaha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/boom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/peach-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/peach-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/peach.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/sandia-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/sandia-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/fruit/sandia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/game-over.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/home-desc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/home-mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/lose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/new-game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/ninja.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/quit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/score.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/shadow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/smoke.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/xf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/xx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/xxf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/xxx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/images/fruit/xxxf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/flappy-bird.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/fruit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/fruit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/boom.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/boom.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/menu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/menu.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/over.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/over.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/splatter.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/splatter.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/start.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/start.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/throw.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/throw.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/zzsc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/html/chess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/AI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/bill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/gambit.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/gambit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/play.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/classes/Servlet/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/classes/Servlet/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/classes/Servlet/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/classes/Servlet/Welcome.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/prefixfree.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/touch-0.2.14.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/QRCode.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/QRCode.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Servlet/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Servlet/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Servlet/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Servlet/Welcome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Welcome.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/prefixfree.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/touch-0.2.14.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/jsp/QRCode.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/QRCode.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/jsp/error.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/error.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,100 +47,106 @@
     <session id="-1677784088">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.72" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="css" value="19" />
-          <entry key="html" value="6" />
+          <entry key="css" value="20" />
+          <entry key="html" value="11" />
           <entry key="iml" value="2" />
           <entry key="java" value="15" />
-          <entry key="jpg" value="1" />
-          <entry key="js" value="25" />
-          <entry key="jsp" value="18" />
+          <entry key="jpg" value="2" />
+          <entry key="js" value="94" />
+          <entry key="jsp" value="27" />
+          <entry key="png" value="9" />
           <entry key="rnc" value="1" />
           <entry key="uml" value="1" />
-          <entry key="xml" value="6" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="CSS" value="19" />
-          <entry key="HTML" value="6" />
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="11" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="Image" value="1" />
+          <entry key="Image" value="11" />
           <entry key="JAVA" value="15" />
-          <entry key="JSP" value="18" />
-          <entry key="JavaScript" value="25" />
+          <entry key="JSP" value="27" />
+          <entry key="JavaScript" value="94" />
           <entry key="RNG Compact" value="1" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="6" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1237" />
-          <entry key="html" value="59" />
+          <entry key="html" value="62" />
           <entry key="java" value="2003" />
-          <entry key="js" value="109" />
-          <entry key="jsp" value="1847" />
-          <entry key="txt" value="20" />
-          <entry key="xml" value="310" />
+          <entry key="js" value="331" />
+          <entry key="jsp" value="1895" />
+          <entry key="txt" value="25" />
+          <entry key="xml" value="339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1237" />
-          <entry key="HTML" value="59" />
+          <entry key="HTML" value="62" />
           <entry key="JAVA" value="2003" />
-          <entry key="JSP" value="1847" />
-          <entry key="JavaScript" value="109" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="XML" value="310" />
+          <entry key="JSP" value="1895" />
+          <entry key="JavaScript" value="331" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="XML" value="339" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+            <state relative-caret-position="626">
+              <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsp/QRCode.jsp">
+        <entry file="file://$PROJECT_DIR$/web/html/chess.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="105">
+              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/css/fruit.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/gambit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="119" column="13" lean-forward="true" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="1" column="448" selection-start-line="1" selection-start-column="448" selection-end-line="1" selection-end-column="448" />
             </state>
           </provider>
         </entry>
@@ -214,11 +157,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="struts" />
-        <option value="HTML File" />
         <option value="Class" />
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="Jsp File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -227,6 +170,13 @@
       <find>images</find>
       <find>background</find>
       <find>best</find>
+      <find>alert</find>
+      <find>aler</find>
+      <find>confirm</find>
+      <find>img</find>
+      <find>js</find>
+      <find>tyro</find>
+      <find>moveInfo</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -257,7 +207,6 @@
         <option value="$PROJECT_DIR$/src/Filters/AutoLoginFilter.java" />
         <option value="$PROJECT_DIR$/web/jsp/error.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/2048.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/Servlet/Login.java" />
         <option value="$PROJECT_DIR$/src/Servlet/Welcome.java" />
         <option value="$PROJECT_DIR$/web/js/QRCode.js" />
@@ -265,9 +214,17 @@
         <option value="$PROJECT_DIR$/web/jsp/QRCode.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/fruit.jsp" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/js/fruit.js" />
         <option value="$PROJECT_DIR$/web/css/fruit.css" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/jsp/chess.jsp" />
+        <option value="$PROJECT_DIR$/web/js/play.js" />
+        <option value="$PROJECT_DIR$/web/js/gambit.js" />
+        <option value="$PROJECT_DIR$/web/js/bill.js" />
+        <option value="$PROJECT_DIR$/web/js/AI.js" />
+        <option value="$PROJECT_DIR$/web/js/common.js" />
+        <option value="$PROJECT_DIR$/web/html/chess.html" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -291,17 +248,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="386" />
-    <option name="y" value="30" />
+    <option name="x" value="131" />
+    <option name="y" value="52" />
     <option name="width" value="1430" />
-    <option name="height" value="965" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -359,13 +318,6 @@
               <item name="NJUWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="NJUWeb" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="fruit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NJUWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NJUWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -373,12 +325,6 @@
               <item name="NJUWeb" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NJUWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NJUWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="sound" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NJUWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -398,6 +344,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,7 +352,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553511656956" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554047680196" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Servlet" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -416,18 +363,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images\fruit" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\js" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\css" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\sound" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\jsp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\js" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images\fruit" />
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images" />
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\font" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\css" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\js" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\sound" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\jsp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -532,6 +479,9 @@
       <workItem from="1553234803927" duration="14429000" />
       <workItem from="1553317566142" duration="1278000" />
       <workItem from="1553501236317" duration="7773000" />
+      <workItem from="1553664881534" duration="530000" />
+      <workItem from="1553839681292" duration="2503000" />
+      <workItem from="1553944324422" duration="9646000" />
     </task>
     <task id="LOCAL-00001" summary="2048">
       <created>1553244325810</created>
@@ -540,15 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553244325810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chess">
+      <created>1554047654909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554047654909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67392000" />
+    <option name="totallyTimeSpent" value="80071000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="386" y="30" width="1430" height="965" extended-state="0" />
-    <editor active="true" />
+    <frame x="107" y="45" width="1430" height="979" extended-state="0" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -556,7 +512,7 @@
       <window_info id="设计器" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.16569343" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.17226277" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3253012" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32934132" />
@@ -568,7 +524,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32906976" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32771084" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.28674698" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.1978673" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -631,54 +587,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2048" />
     <MESSAGE value="flappy" />
-    <option name="LAST_COMMIT_MESSAGE" value="flappy" />
+    <MESSAGE value="chess" />
+    <option name="LAST_COMMIT_MESSAGE" value="chess" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.html" />
-    <entry file="file://$PROJECT_DIR$/web/css/rectangular-rotating-loader-animation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1407">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/Welcome.class" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/modules.uml" />
-    <entry file="file://$PROJECT_DIR$/src/Welcome.java" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Welcome.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NJUWeb.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/prefixfree.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/html/background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/love.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/heart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/heart.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -703,13 +619,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/touch-0.2.14.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/touch-0.2.14.min.js" />
     <entry file="file://$PROJECT_DIR$/src/Filter/loginfilter.java" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -739,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/html/2048.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="45" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Servlet/Welcome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -766,37 +669,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/QRCode.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/MakeQR.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/qrcode.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/qrcode.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/QRCode.css" />
+    <entry file="file://$PROJECT_DIR$/web/js/MakeQR.js" />
+    <entry file="file://$PROJECT_DIR$/web/js/qrcode.js" />
+    <entry file="file://$PROJECT_DIR$/web/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/web/js/qrcode.min.js" />
     <entry file="file://$PROJECT_DIR$/web/css/flappy-bird.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -807,44 +684,10 @@
     <entry file="file://$PROJECT_DIR$/web/js/flappy-bird.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/flappy-bird.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Filters/AutoLoginFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/fruit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/2048.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="24" selection-start-line="7" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -857,35 +700,182 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/fruit.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
+        <state relative-caret-position="672">
           <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/web/js/fruit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="861">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/fruit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/QRCode.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/fruit.css">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="119" column="13" lean-forward="true" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+        <state relative-caret-position="591">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/flappy-bird.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/棋子.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_c.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_j.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_m.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_p.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_s.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/chess/stype_1/b_z.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/zzsc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/heart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/2048.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-458">
+          <caret line="7" column="24" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/chess.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/html/2048.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret column="940" selection-start-column="940" selection-end-column="940" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/play.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="180" column="23" lean-forward="true" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/gambit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="1" column="448" selection-start-line="1" selection-start-column="448" selection-end-line="1" selection-end-column="448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/gambit.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret column="578912" selection-start-column="578912" selection-end-column="578912" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/bill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/AI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/html/chess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
