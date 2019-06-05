@@ -69,7 +69,8 @@ public class Login extends HttpServlet {
             if("VingtDylan".equals(username)&&"ABClaohu512".equals(password)){
                 HttpSession session = req.getSession(true);
                 session.setAttribute("loggedIn",true);
-                resp.sendRedirect("Welcome");
+                //resp.sendRedirect("Welcome");
+                resp.sendRedirect("../jsp/Welcome.jsp");
                 return;
             }else{
                 RequestDispatcher dispatcher = req.getRequestDispatcher("/index.jsp");
@@ -77,7 +78,8 @@ public class Login extends HttpServlet {
 
             }
             req.getSession().setAttribute("loggedIn",true);
-            resp.sendRedirect("Welcome");
+            //resp.sendRedirect("Welcome");
+            resp.sendRedirect("../jsp/Welcome.jsp");
         }
     }
 

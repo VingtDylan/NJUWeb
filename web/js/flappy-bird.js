@@ -1,13 +1,3 @@
-/*
- *
- * @author Sakri Rosenstrom
- * http://www.sakri.net
- * https://twitter.com/sakri
- * http://www.devstate.net
- * Sources for this can be found at:
- * https://github.com/sakri/sakriNetCommonJS
- */
-
 
 (function (window){
 

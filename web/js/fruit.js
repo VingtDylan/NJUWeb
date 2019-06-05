@@ -303,7 +303,7 @@ define("scripts/main.js", function(exports){
 	    // log( "正在加载剧情" );
 	    // log( "正在初始化" );
 		// log( "正在启动游戏..." );
-	    // log.clear();
+	    log.clear();
 	    setTimeout( sence.switchSence.saturate( sence, "home-menu" ), 3000 );
 	};
 	message.addEventListener("slice", function( knife ){
@@ -330,7 +330,8 @@ define("scripts/main.js", function(exports){
 	                case fruit.isNewGameIcon:
 	                    sence.switchSence( "game-body" ); break;
 	                case fruit.isQuitIcon:
-	                    sence.switchSence( "quit-body" ); break;
+	                    sence.switchSence( "quit-body" );
+                        break;
 	            }
 	        return ;
 	    }

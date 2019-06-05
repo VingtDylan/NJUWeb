@@ -17,7 +17,7 @@
     <div id="canvasContainer"></div>
     <span id="textInputSpan">
         Your name () :
-    <input id="textInput" maxlength="10" type="text" width="150" />
+    <input id="textInput" maxlength="10" type="text" width="150" value="CYH"/>
         <button onclick="changeText()">Fly!</button>
     </span>
     <div style="text-align:center;clear:both">
