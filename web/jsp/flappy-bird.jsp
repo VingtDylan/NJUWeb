@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="../css/flappy-bird.css" media="screen" type="text/css" />
 </head>
 <body>
+    <embed src="../sound/Bird.mp3" hidden="true" autostart="true" loop="true"/>
     <div id="canvasContainer"></div>
     <span id="textInputSpan">
         Your name () :

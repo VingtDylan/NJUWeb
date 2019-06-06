@@ -7,37 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59579f2c-8b58-4fdd-85df-e6f445bc90a2" name="默认" comment="new_chess">
-      <change afterPath="$PROJECT_DIR$/src/Java/UserInfoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/UserInfoTrace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/logged.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/Welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/showuser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sound/Bird.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sound/Sakura.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/classes/Servlet/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/classes/Servlet/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/css/2048.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/css/2048.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/css/heart.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/css/heart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/css/less.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/flappy-bird.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/flappy-bird.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/fruit.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/fruit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/2048.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/2048.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/QRCode.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/flappy-bird.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/flappy-bird.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/fruit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/fruit.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Servlet/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Servlet/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/Servlet/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/2048.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/2048.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/heart.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/heart.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/less.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/flappy-bird.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/flappy-bird.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/fruit.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/fruit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/jsp/2048.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/2048.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/jsp/QRCode.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/jsp/fruit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/fruit.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,10 +41,12 @@
     <session id="-1677784088">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.41" value="2" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.46" value="1" />
@@ -76,8 +55,9 @@
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.72" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,10 +66,10 @@
           <entry key="css" value="26" />
           <entry key="html" value="12" />
           <entry key="iml" value="2" />
-          <entry key="java" value="21" />
+          <entry key="java" value="22" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="102" />
-          <entry key="jsp" value="38" />
+          <entry key="js" value="105" />
+          <entry key="jsp" value="40" />
           <entry key="png" value="9" />
           <entry key="rnc" value="1" />
           <entry key="uml" value="1" />
@@ -103,9 +83,9 @@
           <entry key="HTML" value="12" />
           <entry key="IDEA_MODULE" value="2" />
           <entry key="Image" value="11" />
-          <entry key="JAVA" value="21" />
-          <entry key="JSP" value="38" />
-          <entry key="JavaScript" value="102" />
+          <entry key="JAVA" value="22" />
+          <entry key="JSP" value="40" />
+          <entry key="JavaScript" value="105" />
           <entry key="RNG Compact" value="1" />
           <entry key="UML" value="1" />
           <entry key="XML" value="9" />
@@ -116,8 +96,8 @@
           <entry key="css" value="1485" />
           <entry key="html" value="62" />
           <entry key="java" value="2865" />
-          <entry key="js" value="359" />
-          <entry key="jsp" value="3015" />
+          <entry key="js" value="521" />
+          <entry key="jsp" value="3062" />
           <entry key="txt" value="37" />
           <entry key="xml" value="363" />
         </counts>
@@ -127,8 +107,8 @@
           <entry key="CSS" value="1485" />
           <entry key="HTML" value="62" />
           <entry key="JAVA" value="2865" />
-          <entry key="JSP" value="3015" />
-          <entry key="JavaScript" value="359" />
+          <entry key="JSP" value="3062" />
+          <entry key="JavaScript" value="521" />
           <entry key="PLAIN_TEXT" value="37" />
           <entry key="XML" value="363" />
         </counts>
@@ -138,55 +118,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Servlet/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/jsp/2048.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="221">
+              <caret line="131" column="3" lean-forward="true" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsp/error.jsp">
+        <entry file="file://$PROJECT_DIR$/web/jsp/flappy-bird.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="399">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/2048.css">
+        <entry file="file://$PROJECT_DIR$/web/js/game.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Servlet/Welcome.java">
+        <entry file="file://$PROJECT_DIR$/web/js/gambit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/jsp/Welcome.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="21">
+              <caret line="1" column="448" selection-start-line="1" selection-start-column="448" selection-end-line="1" selection-end-column="448" />
             </state>
           </provider>
         </entry>
@@ -194,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/jsp/showuser.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="315">
+              <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -203,16 +165,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Java/UserInfoList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -221,16 +175,10 @@
         <entry file="file://$PROJECT_DIR$/src/Java/UserInfoTrace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
                 <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -239,8 +187,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="83" column="36" lean-forward="true" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+            <state relative-caret-position="168">
+              <caret line="90" column="21" selection-start-line="90" selection-end-line="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Filters/AutoLoginFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/fruit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80577">
+              <caret line="3777" column="27" selection-start-line="3777" selection-start-column="27" selection-end-line="3777" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -293,7 +259,6 @@
         <option value="$PROJECT_DIR$/src/Servlet/login.java" />
         <option value="$PROJECT_DIR$/web/html/2048.html" />
         <option value="$PROJECT_DIR$/web/js/touch-0.2.14.min.js" />
-        <option value="$PROJECT_DIR$/web/js/game.js" />
         <option value="$PROJECT_DIR$/src/Filter/loginfilter.java" />
         <option value="$PROJECT_DIR$/web/css/404.css" />
         <option value="$PROJECT_DIR$/web/js/2048.jsp" />
@@ -318,15 +283,16 @@
         <option value="$PROJECT_DIR$/web/css/heart.css" />
         <option value="$PROJECT_DIR$/web/css/logged.css" />
         <option value="$PROJECT_DIR$/web/jsp/fruit.jsp" />
-        <option value="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" />
         <option value="$PROJECT_DIR$/web/css/2048.css" />
         <option value="$PROJECT_DIR$/web/css/less.css" />
-        <option value="$PROJECT_DIR$/web/jsp/2048.jsp" />
         <option value="$PROJECT_DIR$/src/Java/UserInfoList.java" />
         <option value="$PROJECT_DIR$/src/Java/UserInfoTrace.java" />
         <option value="$PROJECT_DIR$/web/jsp/showuser.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/Welcome.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/js/game.js" />
+        <option value="$PROJECT_DIR$/web/jsp/2048.jsp" />
+        <option value="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" />
       </list>
     </option>
   </component>
@@ -349,9 +315,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="367" />
-    <option name="y" value="48" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="376" />
+    <option name="y" value="46" />
     <option name="width" value="1430" />
     <option name="height" value="979" />
   </component>
@@ -477,6 +443,12 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NJUWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NJUWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sound" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -489,7 +461,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559760447904" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559804402283" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Servlet" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -500,18 +472,18 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\js" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\css" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\sound" />
-      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\jsp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\js" />
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images\fruit" />
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images" />
       <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\sound" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\js" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\css" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\images" />
+      <recent name="C:\Users\ASUS\Desktop\IDEA\WorkSpace\NJUWeb\web\jsp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -530,6 +502,7 @@
     <configuration name="NJUWeb" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="NJUWeb:war exploded">
           <settings>
@@ -625,6 +598,9 @@
       <workItem from="1559714454954" duration="69000" />
       <workItem from="1559714595359" duration="16791000" />
       <workItem from="1559754741956" duration="5469000" />
+      <workItem from="1559760902473" duration="454000" />
+      <workItem from="1559794862904" duration="2294000" />
+      <workItem from="1559797232206" duration="3344000" />
     </task>
     <task id="LOCAL-00001" summary="2048">
       <created>1553244325810</created>
@@ -651,10 +627,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103112000" />
+    <option name="totallyTimeSpent" value="109204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="367" y="48" width="1430" height="979" extended-state="0" />
+    <frame x="376" y="46" width="1430" height="979" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -666,7 +643,7 @@
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49854013" weight="0.32464454" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32934132" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5043796" side_tool="true" visible="true" weight="0.10663507" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5065693" side_tool="true" visible="true" weight="0.10663507" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" weight="0.32934132" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
@@ -674,7 +651,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32906976" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49927008" weight="0.3270142" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49562043" weight="0.10663507" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49343064" visible="true" weight="0.10663507" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -757,13 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Filters/AutoLoginFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/fruit.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2520">
@@ -837,13 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/gambit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="448" selection-start-line="1" selection-start-column="448" selection-end-line="1" selection-end-column="448" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/html/chess.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -874,13 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-420">
           <caret line="180" column="23" lean-forward="true" selection-start-line="180" selection-start-column="23" selection-end-line="180" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/fruit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="3777" column="27" lean-forward="true" selection-start-line="3777" selection-start-column="27" selection-end-line="3777" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -919,13 +875,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/flappy-bird.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/fruit.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
@@ -940,34 +889,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="144" column="5" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/less.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/2048.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/QRCode.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/less.css" />
+    <entry file="file://$PROJECT_DIR$/web/jsp/QRCode.jsp" />
     <entry file="file://$PROJECT_DIR$/web/jsp/error.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -975,77 +898,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Servlet/Login.java">
+    <entry file="file://$PROJECT_DIR$/web/css/2048.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/2048.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/UserInfoTrace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java/UserInfoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="126">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Servlet/Welcome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
+        <state relative-caret-position="462">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/jsp/showuser.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/jsp/Welcome.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Servlet/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/gambit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="448" selection-start-line="1" selection-start-column="448" selection-end-line="1" selection-end-column="448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/showuser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/UserInfoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java/UserInfoTrace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Filters/AutoLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/fruit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80577">
+          <caret line="3777" column="27" selection-start-line="3777" selection-start-column="27" selection-end-line="3777" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/2048.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="131" column="3" lean-forward="true" selection-start-line="131" selection-start-column="3" selection-end-line="131" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/flappy-bird.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="83" column="36" lean-forward="true" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+        <state relative-caret-position="168">
+          <caret line="90" column="21" selection-start-line="90" selection-end-line="91" />
         </state>
       </provider>
     </entry>

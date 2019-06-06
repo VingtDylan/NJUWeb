@@ -16,8 +16,19 @@ function shuaxin()
         var x0=document.getElementById(id);
         if(ar[i][j]==0)
             x0.value=" ";
-        else
-            x0.value=ar[i][j];
+        else{
+            switch (ar[i][j]) {
+                case 1:x0.value="H";break;
+                case 2:x0.value="²H";break;
+                case 4:x0.value="He";break;
+                case 8:x0.value="Be";break;
+                case 16:x0.value="O";break;
+                case 32:x0.value="S";break;
+                case 64:x0.value="Gd";break;
+                default:x0.value="128超素";
+            }
+        }
+
     }
     var x0=document.getElementById("move");
     x0.value=move;
@@ -42,23 +53,7 @@ function shuaxin()
         change=1;
     }
 }
-touch.on('#target', 'touchstart', function(ev){
-    ev.preventDefault();
-});
 
-var target = document.getElementById("target");
-target.style.webkitTransition = 'all ease 0.2s';
-
-touch.on(target, 'swiperight', function(ev){
-    this.style.webkitTransform = "translate3d(" + rt + "px,0,0)";
-    log("向右滑动.");
-    alert("asd");
-});
-
-touch.on(target, 'swipeleft', function(ev){
-    log("向左滑动.");
-    this.style.webkitTransform = "translate3d(-" + this.offsetLeft + "px,0,0)";
-});
 function getKey(e){
     e = e || window.event;
     var keycode = e.which ? e.which : e.keyCode;

@@ -11,9 +11,7 @@
 <head lang="en">
     <meta charset="UTF-8">
     <script src="../js/game.js"></script>
-    <script src="../js/touch-0.2.14.min.js"></script>
     <link rel=stylesheet href="../css/2048.css" type="text/css">
-    <link rel=stylesheet href="../css/less.css" type="text/css">
     <title>game</title>
     <style>
         body {
@@ -131,7 +129,8 @@
     </style>
 </head>
 <body>
-    <div class="main">
+    <embed src="../sound/Sakura.mp3" hidden="true" autostart="true" loop="true">
+<div class="main">
         <script>listenKey();</script>
         <div class="head">
             <p>2048</p>
