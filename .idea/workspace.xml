@@ -6,16 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59579f2c-8b58-4fdd-85df-e6f445bc90a2" name="默认" comment="new_chess">
-      <change afterPath="$PROJECT_DIR$/web/sound/Bird.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/sound/Sakura.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/js/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/2048.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/NJUWeb_war_exploded/jsp/2048.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/jsp/2048.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/2048.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/jsp/flappy-bird.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="59579f2c-8b58-4fdd-85df-e6f445bc90a2" name="默认" comment="new_chess" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +32,7 @@
     <session id="-1677784088">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.26" value="1" />
@@ -315,7 +306,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="376" />
     <option name="y" value="46" />
     <option name="width" value="1430" />
@@ -461,7 +452,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559804402283" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559807029847" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Servlet" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -600,7 +591,7 @@
       <workItem from="1559754741956" duration="5469000" />
       <workItem from="1559760902473" duration="454000" />
       <workItem from="1559794862904" duration="2294000" />
-      <workItem from="1559797232206" duration="3344000" />
+      <workItem from="1559797232206" duration="3346000" />
     </task>
     <task id="LOCAL-00001" summary="2048">
       <created>1553244325810</created>
@@ -627,10 +618,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109204000" />
+    <option name="totallyTimeSpent" value="109206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="376" y="46" width="1430" height="979" extended-state="1" />
+    <frame x="376" y="46" width="1430" height="979" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
@@ -651,7 +642,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32906976" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49927008" weight="0.3270142" />
-      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49343064" visible="true" weight="0.10663507" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49343064" weight="0.10663507" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
